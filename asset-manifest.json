@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mobile2/static/css/main.92a53571.css",
+    "main.js": "/mobile2/static/js/main.ddc83b65.js",
+    "static/media/google.png": "/mobile2/static/media/google.e01585daaa14ed986ba6.png",
+    "index.html": "/mobile2/index.html",
+    "main.92a53571.css.map": "/mobile2/static/css/main.92a53571.css.map",
+    "main.ddc83b65.js.map": "/mobile2/static/js/main.ddc83b65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a53571.css",
+    "static/js/main.ddc83b65.js"
+  ]
+}
